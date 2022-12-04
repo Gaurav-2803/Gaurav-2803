@@ -1,7 +1,7 @@
 ## Hi, I'm Gaurav 👋
 <img width="2100" src="https://cutewallpaper.org/26/best-computer-programming-wallpaper/1450116594.jpg">
 
-- 🔭 I’m currently working on My project i.e. 'Early Fire Alert System using Smoke Prediction' 
+- 🔭 I’m currently working on My project i.e. 'Cash Flow Statement App'
 - 🌱 I’m currently learning Data Science & ML
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with GUI/Web Designing 
