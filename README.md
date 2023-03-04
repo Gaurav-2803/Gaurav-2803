@@ -2,7 +2,7 @@
 <img width="2100" src="https://cutewallpaper.org/26/best-computer-programming-wallpaper/1450116594.jpg">
 
 - 🔭 I’m currently working on My project i.e. 'Expense Manager'
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & Azure
 - 👯 I’m looking to collaborate on Cross-Platform Application
 - 🤔 I’m looking for help with GUI/Web Designing 
 - 💬 Ask me about Competitive Programming / Software Development
