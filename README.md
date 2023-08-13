@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on Cross-Platform Application
 - 🤔 I’m looking for help with GUI/Web Designing 
 - 💬 Ask me about Competitive Programming / Software Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gaurav-agrawal-dev/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gaurav-agrawal-dev/) [Mail](gauravilro2833@gmail.com)
 
 <img width="125" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"> <img width="125" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"> <img width="125" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"> <img width="125" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"> <img width="120" src="https://images.credly.com/size/680x680/images/49211314-919e-4207-885a-7d2ff76ddb07/Statistics_101_-_CC.png">
